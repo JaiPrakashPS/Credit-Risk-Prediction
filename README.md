@@ -1,3 +1,4 @@
+View webiste : https://credit-risk-prediction-app-ds.streamlit.app/
 # 🏦 Credit Risk Prediction App  
 
 This project is a **machine learning web app** built with **Streamlit** that predicts whether a loan applicant has a **good** or **bad credit risk**.  
